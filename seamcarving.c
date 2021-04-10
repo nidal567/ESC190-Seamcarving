@@ -182,16 +182,3 @@ void remove_seam(struct rgb_img *src, struct rgb_img **dest, int *path){
     }
 }
 
-/* testing the code...
-int main(){
-    calc_energy();
-
-    dynamic_seam();
-
-    recover_path();
-
-    remove_seam();
-
-    return 0;
-}
-*/
