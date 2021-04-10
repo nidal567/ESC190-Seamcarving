@@ -1,0 +1,2 @@
+# ESC190-Seamcarving
+Seam-carving is a content-aware image resizing technique where the image is reduced in size by one pixel of width (or height) at a time.  Seam carving preserves the most interest features (aspect ratio, set of objects present, etc.) of the image. The underlying algorithm is simple and elegant, and it is now a core feature in Adobe Photoshop and other computer graphics applications.
